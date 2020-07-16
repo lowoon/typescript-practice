@@ -1,0 +1,11 @@
+{
+  "name": "typescript-practice",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+  },
+  "scripts": {
+    "dev": "ts-node ./src/",
+    "build": "tsc && node dist"
+  }
+}
